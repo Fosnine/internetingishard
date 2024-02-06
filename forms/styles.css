@@ -164,5 +164,13 @@ body {
     .form-row .instructions {
         margin-left: 120px;
     }
+
+    .form-row .checkbox-label {
+        margin-left: 120px;
+        width: auto;
+    }
 }
 
+.form-row .checkbox-label {
+    margin-bottom: 0;
+}
